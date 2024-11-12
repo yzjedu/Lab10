@@ -6,7 +6,7 @@
 - **Due: Before Next Lab**
 
 <h3>Table of contents</h3>
-<!-- TOC -->
+
   * [`Problem`](#problem)
   * [`Purpose`](#purpose)
   * [`Details`](#details)
@@ -16,7 +16,6 @@
   * [`Testing`](#testing)
   * [`Steps`](#steps)
   * [`What to Submit in GitHub`](#what-to-submit-in-github)
-<!-- TOC -->
 
 
 ## `Problem`
